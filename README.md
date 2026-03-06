@@ -19,6 +19,12 @@ Parlez AI introduces a **Virtual Interviewer** powered by Large Language Models 
 
 ---
 
+## 📺 Watch the Demo
+
+[![Parlez AI UI Demo](https://img.youtube.com/vi/l2oSWCDAIa4/maxresdefault.jpg)](https://youtu.be/l2oSWCDAIa4)
+
+*Click the image above to see the Parlez AI interface and interview flow in action.*
+
 ## 🛠️ Technology Stack
 
 ### Frontend
